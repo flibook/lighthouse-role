@@ -1,0 +1,3 @@
+---
+# vars file for lighthouse
+lighthouse_git_repo: https://github.com/VKCOM/lighthouse.git
